@@ -7,6 +7,26 @@ sites:
     url: https://crypto-paymentgateway.com/panel/login
   - name: CPG Login
     url: https://crypto-paymentgateway.com
+  - name: CPG API
+    url: https://crypto-paymentgateway.com/api/login
+    method: POST
+    headers:
+      - "Content-Type": application/json"
+    body: '{"email_address":"","password":""}'
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403    
+  - name: CPG GraphQL
+    url: https://crypto-paymentgateway.com/graphql
+    method: POST
+    headers:
+      - "Content-Type": application/json"
+    body: '{"query":"", "variables":{}}'
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
