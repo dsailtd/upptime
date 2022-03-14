@@ -11,7 +11,7 @@ sites:
     url: https://crypto-paymentgateway.com/api/login
     method: POST
     headers:
-      - "Content-Type": application/json"
+      - "Content-Type: application/json"
     body: '{"email_address":"","password":""}'
     expectedStatusCodes:
       - 200
@@ -21,7 +21,7 @@ sites:
     url: https://crypto-paymentgateway.com/graphql
     method: POST
     headers:
-      - "Content-Type": application/json"
+      - "Content-Type: application/json"
     body: '{"query":"", "variables":{}}'
     expectedStatusCodes:
       - 200
