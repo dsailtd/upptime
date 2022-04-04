@@ -1,7 +1,7 @@
 url: https://crypto-paymentgateway.com/graphql
-status: up
-code: 403
-responseTime: 235
-lastUpdated: 2022-04-03T23:16:06.048Z
+status: down
+code: 502
+responseTime: 244
+lastUpdated: 2022-04-04T16:59:27.162Z
 startTime: Mon Mar 14 2022 17:23:36 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
