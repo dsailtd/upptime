@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/crypto-paymentgateway.com",
     "slug": "cpg-home",
     "status": "up",
-    "uptime": "99.86%",
+    "uptime": "99.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 720,
-    "timeDay": 709,
-    "timeWeek": 710,
-    "timeMonth": 720,
-    "timeYear": 720,
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 714,
+    "timeDay": 532,
+    "timeWeek": 704,
+    "timeMonth": 714,
+    "timeYear": 714,
     "dailyMinutesDown": {
       "2022-04-04": 27,
       "2022-03-23": 24
@@ -31,11 +31,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 219,
-    "timeDay": 223,
-    "timeWeek": 218,
-    "timeMonth": 219,
-    "timeYear": 219,
+    "time": 217,
+    "timeDay": 166,
+    "timeWeek": 217,
+    "timeMonth": 217,
+    "timeYear": 217,
     "dailyMinutesDown": {
       "2022-04-04": 27
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1199,
-    "timeDay": 1239,
+    "time": 1198,
+    "timeDay": 1182,
     "timeWeek": 1121,
-    "timeMonth": 1199,
-    "timeYear": 1199,
+    "timeMonth": 1198,
+    "timeYear": 1198,
     "dailyMinutesDown": {
       "2022-04-04": 27
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 221,
-    "timeDay": 228,
+    "time": 219,
+    "timeDay": 168,
     "timeWeek": 220,
-    "timeMonth": 221,
-    "timeYear": 221,
+    "timeMonth": 219,
+    "timeYear": 219,
     "dailyMinutesDown": {
       "2022-04-04": 27
     }
