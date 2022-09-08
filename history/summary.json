@@ -4,10 +4,10 @@
     "url": "https://crypto-paymentgateway.com/panel/login",
     "icon": "https://favicons.githubusercontent.com/crypto-paymentgateway.com",
     "slug": "cpg-home",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 688,
@@ -16,6 +16,7 @@
     "timeMonth": 669,
     "timeYear": 688,
     "dailyMinutesDown": {
+      "2022-09-08": 2,
       "2022-04-04": 27,
       "2022-03-23": 24
     }
@@ -25,10 +26,10 @@
     "url": "https://crypto-paymentgateway.com",
     "icon": "https://favicons.githubusercontent.com/crypto-paymentgateway.com",
     "slug": "cpg-login",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 209,
@@ -37,6 +38,7 @@
     "timeMonth": 203,
     "timeYear": 209,
     "dailyMinutesDown": {
+      "2022-09-08": 1,
       "2022-04-04": 27
     }
   },
@@ -45,10 +47,10 @@
     "url": "https://crypto-paymentgateway.com/api/login",
     "icon": "https://favicons.githubusercontent.com/crypto-paymentgateway.com",
     "slug": "cpg-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1212,
@@ -57,6 +59,7 @@
     "timeMonth": 1186,
     "timeYear": 1212,
     "dailyMinutesDown": {
+      "2022-09-08": 1,
       "2022-04-04": 27
     }
   },
@@ -65,9 +68,9 @@
     "url": "https://crypto-paymentgateway.com/graphql",
     "icon": "https://favicons.githubusercontent.com/crypto-paymentgateway.com",
     "slug": "cpg-graph-ql",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -77,6 +80,7 @@
     "timeMonth": 204,
     "timeYear": 211,
     "dailyMinutesDown": {
+      "2022-09-08": 0,
       "2022-04-04": 27
     }
   }
